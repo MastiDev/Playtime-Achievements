@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "60 Sekunden",
+            "text": "15 Minuten",
             "color": "white"
         },
         "description": {
-            "text": "Es fängt er richtig an :D"
+            "text": "Wow schon 15 Minuten"
         },
         "icon": {
             "item": "minecraft:clock"
@@ -20,5 +20,5 @@
             "trigger": "minecraft:impossible"
         }
     },
-    "parent": "playtime:root"
+    "parent": "playtime:300seconds"
 }
