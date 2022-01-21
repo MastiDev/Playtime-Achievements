@@ -1,1 +1,0 @@
-tellraw @a {"text": "Template Data Pack Loaded", "color": "#2E79E8"}
