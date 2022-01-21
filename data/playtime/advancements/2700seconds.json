@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "text": "45 Minuten",
+            "color": "white"
+        },
+        "description": {
+            "text": "Da fehlt nicht mehr viel zu der ersten Stunde!"
+        },
+        "icon": {
+            "item": "minecraft:clock"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "60seconds": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "playtime:900seconds"
+}
