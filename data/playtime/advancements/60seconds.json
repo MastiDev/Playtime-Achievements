@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "text": "60 Sekunden",
+            "color": "black"
+        },
+        "description": {
+            "text": "Es fängt er richtig an :D"
+        },
+        "icon": {
+            "item": "minecraft:clock"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "60seconds": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "playtime:root"
+}
