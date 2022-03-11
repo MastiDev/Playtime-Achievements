@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "text": "2 Hour",
+            "color": "white"
+        },
+        "description": {
+            "text": "Play for 2 hour"
+        },
+        "icon": {
+            "item": "minecraft:clock"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "60seconds": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "playtime:3600seconds"
+}
