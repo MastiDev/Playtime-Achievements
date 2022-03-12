@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "45 Minuten",
+            "text": "45 minutes",
             "color": "white"
         },
         "description": {
-            "text": "Da fehlt nicht mehr viel zu der ersten Stunde!"
+            "text": "Play for 45 minutes"
         },
         "icon": {
             "item": "minecraft:clock"

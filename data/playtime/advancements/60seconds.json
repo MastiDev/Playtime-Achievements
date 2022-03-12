@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "60 Sekunden",
+            "text": "60 Seconds",
             "color": "white"
         },
         "description": {
-            "text": "Es fängt er richtig an :D"
+            "text": "Play for 60 seconds"
         },
         "icon": {
             "item": "minecraft:clock"
