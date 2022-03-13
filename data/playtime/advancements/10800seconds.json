@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "3 Hour",
+            "text": "3 Hours",
             "color": "white"
         },
         "description": {
-            "text": "Play for 3 hour"
+            "text": "Play for 3 hours"
         },
         "icon": {
             "item": "minecraft:clock"

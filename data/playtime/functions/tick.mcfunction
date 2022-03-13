@@ -8,3 +8,4 @@ execute as @e[scores={playtime=72000}] run advancement grant @s only playtime:36
 
 execute as @e[scores={playtime=144000}] run advancement grant @s only playtime:7200seconds
 execute as @e[scores={playtime=144000}] run advancement grant @s only playtime:10800seconds
+execute as @e[scores={playtime=360000}] run advancement grant @s only playtime:18000seconds

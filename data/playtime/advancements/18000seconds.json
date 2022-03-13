@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "2 Hours",
+            "text": "5 Hours",
             "color": "white"
         },
         "description": {
-            "text": "Play for 2 hours"
+            "text": "Play for 5 hours"
         },
         "icon": {
             "item": "minecraft:clock"
@@ -20,5 +20,5 @@
             "trigger": "minecraft:impossible"
         }
     },
-    "parent": "playtime:3600seconds"
+    "parent": "playtime:10800seconds"
 }
