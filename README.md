@@ -1,7 +1,7 @@
-# 🕐Time-Achivments🕐
+# 🕐Time-Achievements🕐
 
 ## Description
-This is a datapack for Minecraft 1.18 that adds some achivment for playing time.
+This is a datapack for Minecraft 1.18 that adds some achievements for game time.
 
 ## Installation new world
 1. Download the repository as a zip file.

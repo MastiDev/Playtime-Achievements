@@ -1,11 +1,9 @@
-scoreboard players add @a playtime 1
+advancement grant @a[scores={playtime=1200..}] only playtime:60seconds
+advancement grant @a[scores={playtime=6000..}] only playtime:300seconds
+advancement grant @a[scores={playtime=18000..}] only playtime:900seconds
+advancement grant @a[scores={playtime=54000..}] only playtime:2700seconds
+advancement grant @a[scores={playtime=72000..}] only playtime:3600seconds
 
-execute as @e[scores={playtime=1200}] run advancement grant @s only playtime:60seconds
-execute as @e[scores={playtime=6000}] run advancement grant @s only playtime:300seconds
-execute as @e[scores={playtime=18000}] run advancement grant @s only playtime:900seconds
-execute as @e[scores={playtime=54000}] run advancement grant @s only playtime:2700seconds
-execute as @e[scores={playtime=72000}] run advancement grant @s only playtime:3600seconds
-
-execute as @e[scores={playtime=144000}] run advancement grant @s only playtime:7200seconds
-execute as @e[scores={playtime=144000}] run advancement grant @s only playtime:10800seconds
-execute as @e[scores={playtime=360000}] run advancement grant @s only playtime:18000seconds
+advancement grant @a[scores={playtime=144000..}] only playtime:7200seconds
+advancement grant @a[scores={playtime=144000..}] only playtime:10800seconds
+advancement grant @a[scores={playtime=360000..}] only playtime:18000seconds
