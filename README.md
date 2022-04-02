@@ -1,7 +1,7 @@
-# 🕐Time-Achivments🕐
+# 🕐Playtime-Achievements🕐
 
 ## Description
-This is a datapack for Minecraft 1.18 that adds some achivment for playing time.
+This is a datapack for Minecraft 1.18 that adds some achievements for playing time.
 
 ## Installation new world
 1. Download the repository as a zip file.
@@ -22,7 +22,7 @@ This is a datapack for Minecraft 1.18 that adds some achivment for playing time.
 ## Usage
 1. Join your world.
 5. Use `/function playtime:setup` to setup the datapack.
-6. Wait for the first 60 seconds and you should have now the first playtime achivment unlocked. And everthing is working :)
+6. Wait for the first 60 seconds and you should have now the first playtime achievements unlocked. And everthing is working :)
 
 ## Contributing
 1. Fork it!

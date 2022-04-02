@@ -1,16 +1,16 @@
 {
     "display": {
         "title": {
-            "text": "1 Hour",
+            "text": "2 Hours",
             "color": "white"
         },
         "description": {
-            "text": "Play for 1 hour"
+            "text": "Play for 2 hours"
         },
         "icon": {
             "item": "minecraft:clock"
         },
-        "frame": "challenge",
+        "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": false
@@ -20,5 +20,5 @@
             "trigger": "minecraft:impossible"
         }
     },
-    "parent": "playtime:2700seconds"
+    "parent": "playtime:60minutes"
 }

@@ -1,1 +1,1 @@
-tellraw @a {"text": "Template Data Pack Loaded", "color": "#2E79E8"}
+#tellraw @a {"text": "Playtime-Achievements loaded", "color": "#2E79E8"}

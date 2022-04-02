@@ -10,7 +10,7 @@
         "icon": {
             "item": "minecraft:clock"
         },
-        "frame": "challenge",
+        "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": false
@@ -20,5 +20,5 @@
             "trigger": "minecraft:impossible"
         }
     },
-    "parent": "playtime:10800seconds"
+    "parent": "playtime:180minutes"
 }

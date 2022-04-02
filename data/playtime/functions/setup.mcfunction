@@ -1,1 +1,1 @@
-scoreboard objectives add playtime dummy
+scoreboard objectives add playtime minecraft.custom:minecraft.play_time
